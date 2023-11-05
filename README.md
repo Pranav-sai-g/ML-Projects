@@ -6,21 +6,26 @@ This repository contains several machine learning projects developed by me with 
 This project utilizes Convolutional Neural Networks (CNN) to predict COVID-19 infection from chest X-ray images. The CNN model is trained on a dataset of X-ray images to identify patterns associated with the virus.
 
 ### 2. Computer Vision (CV)
-This section of the repository contains computer vision-related projects.
+This section of the repository contains computer vision-related papers and there implementations (Datasets used in model training/validation are not attached in this repository).
 
 #### Classification
-ViT - An Image Is Worth 16x16 Words: Transformers For Image Recognition At Scale
+
+* [ViT - An Image Is Worth 16x16 Words: Transformers For Image Recognition At Scale](CV/Classification/VisionTransformer/)
+
 #### Generative Adversarial Networks
-DCGAN - Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks
-Pix2Pix - Image-To-Image Translation With Conditional Adversarial Networks
-StyleGAN - A Style-Based Generator Architecture For Generative Adversarial Networks
-Image Inpainting - Generative Image Inpainting with Contextual Attention
-StackGAN - Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks
+
+* [DCGAN - Unsupervised Representation Learning With Deep Convolutional Generative Adversarial Networks](CV/GANs/DCGAN/)
+* [Pix2Pix - Image-To-Image Translation With Conditional Adversarial Networks](CV/GANs/Pix2Pix/)
+* [StyleGAN - A Style-Based Generator Architecture For Generative Adversarial Networks](CV/GANs/StyleGAN/)
+* [Image Inpainting - Generative Image Inpainting with Contextual Attention](CV/GANs/Inpainting/)
+* [StackGAN - Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks](CV/GANs/StackGAN/)
+
 #### Segmentation
-PSPNet- Pyramid Scene Parsing Network
-U-Net - Convolutional Networks For Biomedical Image Segmentation
-YOLO - You Only Look Once: Unified, Real-Time Object Detection
-PointNet - Deep Learning on Point Sets For 3D Classification And Segmentation
+
+* [PSPNet- Pyramid Scene Parsing Network](CV/Segmentation/PSPNet/)
+* [U-Net - Convolutional Networks For Biomedical Image Segmentation](CV/Segmentation/UNet/)
+* [YOLO - You Only Look Once: Unified, Real-Time Object Detection](CV/Segmentation/YOLO/)
+* [PointNet - Deep Learning on Point Sets For 3D Classification And Segmentation](CV/Segmentation/PointNet/)
 
 ### 3. English to French Translation with LSTM Neural Network
 In this project, a Long Short-Term Memory (LSTM) Neural Network is implemented for English to French translation. LSTMs are a type of recurrent neural network (RNN) well-suited for sequential data, making them ideal for translation tasks.
