@@ -1,6 +1,6 @@
 ### ML-Projects
 
-This repository contains several machine learning projects developed by me with a little contribution people in ML community. Each project focuses on different aspects of machine learning, showcasing a variety of techniques and approaches. Below is a brief overview of the projects available in this repository:
+This repository contains several machine learning projects developed by me with a little contribution from people in ML community. Each project focuses on different aspects of machine learning, showcasing a variety of techniques and approaches. Below is a brief overview of the projects available in this repository:
 
 # 1. COVID-19 Prediction from Chest X-Ray using CNN
 This project utilizes Convolutional Neural Networks (CNN) to predict COVID-19 infection from chest X-ray images. The CNN model is trained on a dataset of X-ray images to identify patterns associated with the virus.
