@@ -1,4 +1,4 @@
-# Prediction of COVID-19 from Chest X-ray Images with CNN (Convolutional Neural Network)
+# Prediction of COVID-19 from Chest X-ray Images using CNN(Convolutional Neural Network)
 
 In this project, Built and trained a convolutional neural network in Keras with TensorFlow as backend from scratch to predict patients if they were infected with COVID-19 or not using their chest X-ray images. 
 Matplotlib was used for data visualization. Data preprocessing and data augmentation was carried out using tensorflow 2.0
